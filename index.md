@@ -1,4 +1,4 @@
-## ->Gas Brake Go - HCR2 Reference <-
+## Gas Brake Go - HCR2 Reference
 ***
 1. TOC
 {:toc}
@@ -88,16 +88,17 @@ Alternative parts: **OverchargedTurbo Landingboost**
 - [Getting started tips](https://rentry.co/hcr2tips#getting-started)
 
 ** Videos**
-- [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)
+- [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
 [![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)
-- [Moonlander coin trick tutorial](https://youtu.be/ATDNgvF0XhQ)
+- [Moonlander coin trick tutorial](https://youtu.be/ATDNgvF0XhQ)  
 [![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
-- [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
+- [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 ### Vehicles
 #### Parts required & costs
 ![Parts upgrade reference chart](https://cdn.discordapp.com/attachments/617353655468687390/743407975623950346/image0.jpg)
-## ->HCR2 Parts Costs<-
+ 
+ **HCR2 Parts Costs**
 ![Part costs](https://cdn.discordapp.com/attachments/617353655468687390/743407893931622400/image0.jpg)
 #### Fuel duration
 ![Fuel](https://cdn.discordapp.com/attachments/617353655468687390/777544549416697876/image0.png)
@@ -220,6 +221,7 @@ Distance | Obstacle
 25 600 | Moat
 
 #### Desert valley obstacles
+
 Distance | Obstacle
 -- | --
 1090 | Swing
@@ -331,9 +333,11 @@ Meters\* | Tracks
 - [ ] **Every 8 hours**:   Free chest in the shop 
 - [ ] **Every 10 hours**: Three daily tasks (v1.43)
 
-**Every 12 hours**
-- [ ] Six ad/VIP 3-hour cup chests
-- [ ] Three adventure tasks
+**Every 12 hours**  
+[ ] Six ad/VIP 3-hour cup chests
+[ ]
+- [ ]
+ [ ] Three adventure tasks
 - [ ] Two free “Finish Now” scrap
 
 **Every 24 hours**
@@ -363,8 +367,8 @@ Meters\* | Tracks
 8. **Complete every monthly season and weekly public event (cheapest legendary parts)**
 9. **Only use gems at the shop to buy a part you don’t have**
 10. **Always buy the 50k coin scrap in the shop (if available)**
-***
-### Team philosophy
+***  
+### Team philosophy  
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
