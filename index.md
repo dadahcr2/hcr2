@@ -1,4 +1,4 @@
-## Gas Brake Go - HCR2 Reference
+# Gas Brake Go - HCR2 Reference
 ***
 1. TOC
 {:toc} 
@@ -7,8 +7,8 @@ FAQ. [http://faq.hcr2.info](http://faq.hcr2.info)
 
 ----  
 
-### Events & Previews  
-#### Team event: Bail Out!
+## Events & Previews  
+### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
 
  ***bus tractor motocross sportscar, monster formula***
@@ -20,9 +20,9 @@ FAQ. [http://faq.hcr2.info](http://faq.hcr2.info)
 **Track 5:**   _**Time attack**, Overtakers (It's Mine) , 10k=13.5s, Sportscar_  
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/814882304932708412/xyzzy1614353478720.png)
-#### Next public event: Red Car'd (Long Kick)
+### Next public event: Red Car'd (Long Kick)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/813553824345620480/image0.png)
-#### Last public event: Top Gear Bottom Gear (Uphill Climb)
+### Last public event: Top Gear Bottom Gear (Uphill Climb)
 ![](https://pbs.twimg.com/media/Eu_VUTJXAAc5Rxg.jpg:small)
 **Tracks**  
 Up’n’Up  
@@ -68,7 +68,7 @@ Suggested vehicles and parts:
 - **Hill-arious (Uphill):** 1-5
 - [Old events - from 2019](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/eventtips#wiki_event_tips_.28hcr2.29)
 
-#### New update (V1.43.0)
+### New update (V1.43.0)
 ![](https://pbs.twimg.com/media/EvJ9BGwXYAI3v1g.jpg:small)
 
 **RELEASE NOTES:**
@@ -83,10 +83,10 @@ Suggested vehicles and parts:
 
 
 
-#### New vehicle rumor
+### New vehicle rumor
 ![](https://cdn.discordapp.com/attachments/616461538978693141/795788555053301820/image0.png)
 
-###  Wikis & general tutorials
+##  Wikis & general tutorials
 **Links**
 - [Official wiki](https://hillclimbracing2.gamepedia.com/Hill_Climb_Racing_2_Wiki)
 - [Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)
@@ -100,15 +100,15 @@ Suggested vehicles and parts:
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 
-### Vehicles
-#### Parts required & costs
+## Vehicles
+### Parts required & costs
 ![Parts upgrade reference chart](https://cdn.discordapp.com/attachments/617353655468687390/743407975623950346/image0.jpg)
  
  **HCR2 Parts Costs**  
 ![Part costs](https://cdn.discordapp.com/attachments/617353655468687390/743407893931622400/image0.jpg)
-#### Fuel duration
+### Fuel duration
 ![Fuel](https://cdn.discordapp.com/attachments/617353655468687390/777544549416697876/image0.png)
-#### Parts suggestions
+### Parts suggestions
 
 Vehicle | Parts
 -- | --
@@ -135,7 +135,7 @@ Superbike | Wings Afterburner CoinBoost / OverchargedTurbo Afterburner Wings / O
 Supercar | StartBoost OverchargedTurbo Afterburner / Wings OverchargedTurbo CoinBoost / Wings OverchargedTurbo Afterburner
 Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost 
 
-#### Least used parts
+### Least used parts
 These are parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
 
 Vehicle | Parts
@@ -163,8 +163,8 @@ Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
 
-### Adventures
-#### Best map setups
+## Adventures
+### Best map setups
 Popular vehicles and corresponding parts at the top of the rankings for each adventure map.  These may assist with obtaining distance bonuses: 
 
 Map | Vehicle and Parts
@@ -186,7 +186,7 @@ Forest Trials | Rally Wings LandingBoost JumpShocks
 Intense City | Rally Wings WinterTires JumpShocks
 Raging Winter | Rally Wings WinterTires CoinBoost
 
-#### Forest adventure vehicle parts
+### Forest adventure vehicle parts
 10K setups as follows:
 
 Vehicle | Parts 
@@ -216,9 +216,9 @@ Moonlander | Magnet WheelieBoost CoinBoost
 
 Where Df=Downforce, S=Suspension, SW=SkiWax
 (Source: [PR]linus 10k runs: https://youtu.be/0hLcQWIaLSg)
-#### Max Canyoneer Stars
+### Max Canyoneer Stars
 ![](https://cdn.discordapp.com/attachments/803029651726925887/809417442115321856/wibble1613050551386.jpg)
-#### Forest adventure obstacles
+### Forest adventure obstacles
 ![Forest walk-through](https://cdn.discordapp.com/attachments/617353655468687390/733422128929439774/image0.png)
 ![](https://cdn.discordapp.com/attachments/617353655468687390/733422129181098055/image1.png)  
 Continued...  
@@ -228,7 +228,7 @@ Distance | Obstacle
 23 600 | Moat
 25 600 | Moat
 
-#### Desert valley obstacles
+### Desert valley obstacles
 
 Distance | Obstacle
 -- | --
@@ -259,8 +259,8 @@ Distance | Obstacle
 20510 | Single-rope swing
 22650 | Easy to miss gas tank
 
-### Cups
-#### Two and four track cups  
+## Cups
+### Two and four track cups  
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
 
 **Two tracks**  
@@ -273,7 +273,7 @@ Dirty Rally
 Spring City  
 Sunday Champ  
 
-#### Tracks by distance
+### Tracks by distance
 This may be helpful in identifying team (and public) event tracks
 
 Meters\* | Tracks
@@ -334,7 +334,7 @@ Meters\* | Tracks
 1000 | **Deepest End**(Deep Diving), **Far Far Away**(Desert Mile), **Forgotten Highway**, **Frostfire Caverns**, **Long Road Down**(Miner’s Mile), **Paradise Bay**, **Snow Castle**(Winter is Coming)
 
 **\* within 1m or so**
-### Daily checklist
+## Daily checklist
 
 - [ ] **Every 4 hours**: Two free team tickets 
 - [ ] **Every 6 hours**:   Ad/VIP chest in the shop 
@@ -362,7 +362,7 @@ Meters\* | Tracks
 - [ ] Have a cup chest timing down
 - [ ] Scrap excess parts
 
-### 10 Commandments of HCR2
+## 10 Commandments of HCR2
 1. **Don’t cheat or go against FS rules**
 2. **Only use gems for weekly public events / cups chests**
 3. **Scrap only excess parts, especially for legendaries**
@@ -376,7 +376,7 @@ Meters\* | Tracks
 
 ***  
 
-### Team philosophy  
+## Team philosophy  
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
@@ -391,7 +391,7 @@ Meters\* | Tracks
 
 ----  
 
-### Tractor wars 
+## Tractor wars 
 If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with  Numpty: [https://playhcr.com/invite?id=95Pyg5](https://playhcr.com/invite?id=95Pyg5)
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
