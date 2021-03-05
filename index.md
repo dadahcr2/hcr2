@@ -337,10 +337,8 @@ Meters\* | Tracks
 - [ ] **Every 10 hours**: Three daily tasks (v1.43)
 
 **Every 12 hours**  
-[ ] Six ad/VIP 3-hour cup chests
-[ ]
-- [ ]
- [ ] Three adventure tasks
+- [ ] Six ad/VIP 3-hour cup chests
+- [ ] Three adventure tasks
 - [ ] Two free “Finish Now” scrap
 
 **Every 24 hours**
