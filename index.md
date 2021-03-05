@@ -2,9 +2,9 @@
 ***
 1. TOC
 {:toc}  
-FAQ. http://faq.hcr2.info
-***
-### Events & Previews
+FAQ. http://faq.hcr2.info  
+***  
+### Events & Previews  
 #### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
 
@@ -215,8 +215,9 @@ Where Df=Downforce, S=Suspension, SW=SkiWax
 ![](https://cdn.discordapp.com/attachments/803029651726925887/809417442115321856/wibble1613050551386.jpg)
 #### Forest adventure obstacles
 ![Forest walk-through](https://cdn.discordapp.com/attachments/617353655468687390/733422128929439774/image0.png)
-![](https://cdn.discordapp.com/attachments/617353655468687390/733422129181098055/image1.png)
-Continued...
+![](https://cdn.discordapp.com/attachments/617353655468687390/733422129181098055/image1.png)  
+Continued...  
+
 Distance | Obstacle
 -- | --
 23 600 | Moat
@@ -390,6 +391,7 @@ Meters\* | Tracks
 If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with  Numpty: [https://playhcr.com/invite?id=95Pyg5](https://playhcr.com/invite?id=95Pyg5)
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
-Results are reported on the [tractor](http://tractor.hcr2.info) wars discord server: [https://discord.gg/ND6avWY](https://discord.gg/ND6avWY)
-***
+Results are reported on the [tractor](http://tractor.hcr2.info) wars discord server: [https://discord.gg/ND6avWY](https://discord.gg/ND6avWY)  
+***  
 Anything worth adding?  dadahcr2@gmail.com or dada#1710 
+
