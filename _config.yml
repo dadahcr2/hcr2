@@ -4,3 +4,6 @@ description: Gas Brake Go
 logo: /assets/img/BF3DF7D2-701A-4260-991E-4DB76B63A47A.jpeg
 
 theme: jekyll-theme-minimal
+kramdown:
+  toc_levels: 2
+  
