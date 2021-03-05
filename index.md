@@ -1,7 +1,7 @@
 ## Gas Brake Go - HCR2 Reference
 ***
 1. TOC
-{:toc}
+{:toc}  
 FAQ. http://faq.hcr2.info
 ***
 ### Events & Previews
