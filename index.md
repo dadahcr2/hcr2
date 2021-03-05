@@ -1,7 +1,8 @@
 ## ->Gas Brake Go - HCR2 Reference <-
 ***
-[TOC3]
-FAQ. https://rentry.co/hcr2faq
+1. TOC
+{:toc}
+FAQ. http://faq.hcr2.info
 ***
 ### Events & Previews
 #### Team event: Bail Out!
