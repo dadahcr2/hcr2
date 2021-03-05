@@ -5,7 +5,7 @@
 
 FAQ. [http://faq.hcr2.info](http://faq.hcr2.info)  
 
-***
+----  
 
 ### Events & Previews  
 #### Team event: Bail Out!
@@ -40,8 +40,8 @@ Suggested vehicles and parts:
 - **Rally WinterTires Wings Coinboost** 
 (Remove Hood and Roof at start to lighten vehicle by reversing into invisible wall)   
 ![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)    
-Alternative vehicles: **Buggy Superdiesel Snowmobile Tractor Monowheel Tank**  
-Alternative parts: **OverchargedTurbo Landingboost**
+- Alternative vehicles: **Buggy Superdiesel Snowmobile Tractor Monowheel Tank**  
+- Alternative parts: **OverchargedTurbo Landingboost**
 
 **Previous public events**
 - **Lug-Nuts and Leadfoots (Nian Chase)** nian chase, home sweet home, angry beast, night of nian - *Rally WinterTires Wings CoinBoost*
@@ -389,12 +389,15 @@ Meters\* | Tracks
  
 	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
-***
+----  
+
 ### Tractor wars 
 If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with  Numpty: [https://playhcr.com/invite?id=95Pyg5](https://playhcr.com/invite?id=95Pyg5)
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
 Results are reported on the [tractor](http://tractor.hcr2.info) wars discord server: [https://discord.gg/ND6avWY](https://discord.gg/ND6avWY)  
-***  
+
+----  
+
 Anything worth adding?  dadahcr2@gmail.com or dada#1710 
 
