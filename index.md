@@ -8,7 +8,7 @@ FAQ. http://faq.hcr2.info
 #### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
 
- ***bus tractor motocross sportscar, monster formula**
+ ***bus tractor motocross sportscar, monster formula***
 
 **Track 1:**  _**No air**, Kid's pool (Finger Travels), 10k=24s,  Formula_
 **Track 2:**   _**Long jump**, 10k=240m, Bus_
