@@ -2,7 +2,7 @@
 ***
 1. TOC
 {:toc}  
-FAQ. http://faq.hcr2.info  
+FAQ. [http://faq.hcr2.info](http://faq.hcr2.info)  
 ***  
 ### Events & Previews  
 #### Team event: Bail Out!
