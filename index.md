@@ -1,9 +1,12 @@
 ## Gas Brake Go - HCR2 Reference
 ***
 1. TOC
-{:toc}  
+{:toc} 
+
 FAQ. [http://faq.hcr2.info](http://faq.hcr2.info)  
-***  
+
+***
+
 ### Events & Previews  
 #### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
@@ -33,9 +36,10 @@ King of the Hill
 Climb It   
 
 Suggested vehicles and parts:   
-**RacingTruck FumeBoost Wings WheelieBoost**  
-**Rally WinterTires Wings Coinboost** (Remove Hood and Roof at start to lighten vehicle by reversing into invisible wall)   
-![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)  
+- **RacingTruck FumeBoost Wings WheelieBoost**  
+- **Rally WinterTires Wings Coinboost** 
+(Remove Hood and Roof at start to lighten vehicle by reversing into invisible wall)   
+![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)    
 Alternative vehicles: **Buggy Superdiesel Snowmobile Tractor Monowheel Tank**  
 Alternative parts: **OverchargedTurbo Landingboost**
 
@@ -81,13 +85,14 @@ Alternative parts: **OverchargedTurbo Landingboost**
 
 #### New vehicle rumor
 ![](https://cdn.discordapp.com/attachments/616461538978693141/795788555053301820/image0.png)
+
 ###  Wikis & general tutorials
-** Links**
+**Links**
 - [Official wiki](https://hillclimbracing2.gamepedia.com/Hill_Climb_Racing_2_Wiki)
 - [Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)
 - [Getting started tips](https://rentry.co/hcr2tips#getting-started)
 
-** Videos**
+**Videos**
 - [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)  
 [![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)
 - [Moonlander coin trick tutorial](https://youtu.be/ATDNgvF0XhQ)  
