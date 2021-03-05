@@ -10,33 +10,33 @@ FAQ. http://faq.hcr2.info
 
  ***bus tractor motocross sportscar, monster formula***
 
-**Track 1:**  _**No air**, Kid's pool (Finger Travels), 10k=24s,  Formula_
-**Track 2:**   _**Long jump**, 10k=240m, Bus_
-**Track 3:**   _**Multi jump**, 10k=700m, Moto/Tractor_
-**Track 4:**  _**Breaking**, 10k=10s, Monster_
-**Track 5:**   _**Time attack**, Overtakers (It's Mine) , 10k=13.5s, Sportscar_
+**Track 1:**  _**No air**, Kid's pool (Finger Travels), 10k=24s,  Formula_  
+**Track 2:**   _**Long jump**, 10k=240m, Bus_  
+**Track 3:**   _**Multi jump**, 10k=700m, Moto/Tractor_  
+**Track 4:**  _**Breaking**, 10k=10s, Monster_  
+**Track 5:**   _**Time attack**, Overtakers (It's Mine) , 10k=13.5s, Sportscar_  
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/814882304932708412/xyzzy1614353478720.png)
 #### Next public event: Red Car'd (Long Kick)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/813553824345620480/image0.png)
 #### Last public event: Top Gear Bottom Gear (Uphill Climb)
 ![](https://pbs.twimg.com/media/Eu_VUTJXAAc5Rxg.jpg:small)
-**Tracks**
-Up’n’Up
-Sky’s the Limit
-Top of the World
-Over the Top
-Up, Up and Away
-Mount Dizzy
-To the Summit
-King of the Hill
-Climb It 
+**Tracks**  
+Up’n’Up  
+Sky’s the Limit  
+Top of the World  
+Over the Top  
+Up, Up and Away  
+Mount Dizzy  
+To the Summit  
+King of the Hill  
+Climb It   
 
-Suggested vehicles and parts: 
-**RacingTruck FumeBoost Wings WheelieBoost**
-**Rally WinterTires Wings Coinboost** (Remove Hood and Roof at start to lighten vehicle by reversing into invisible wall) 
-![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)
-Alternative vehicles: **Buggy Superdiesel Snowmobile Tractor Monowheel Tank**
+Suggested vehicles and parts:   
+**RacingTruck FumeBoost Wings WheelieBoost**  
+**Rally WinterTires Wings Coinboost** (Remove Hood and Roof at start to lighten vehicle by reversing into invisible wall)   
+![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)  
+Alternative vehicles: **Buggy Superdiesel Snowmobile Tractor Monowheel Tank**  
 Alternative parts: **OverchargedTurbo Landingboost**
 
 **Previous public events**
@@ -94,15 +94,17 @@ Alternative parts: **OverchargedTurbo Landingboost**
 [![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
 - [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)  
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
+
 ### Vehicles
 #### Parts required & costs
 ![Parts upgrade reference chart](https://cdn.discordapp.com/attachments/617353655468687390/743407975623950346/image0.jpg)
  
- **HCR2 Parts Costs**
+ **HCR2 Parts Costs**  
 ![Part costs](https://cdn.discordapp.com/attachments/617353655468687390/743407893931622400/image0.jpg)
 #### Fuel duration
 ![Fuel](https://cdn.discordapp.com/attachments/617353655468687390/777544549416697876/image0.png)
 #### Parts suggestions
+
 Vehicle | Parts
 -- | --
 Hill Climber | Wings JumpShock LandingBoost
@@ -252,18 +254,18 @@ Distance | Obstacle
 22650 | Easy to miss gas tank
 
 ### Cups
-#### Two and four track cups
+#### Two and four track cups  
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
 
-**Two tracks**
-Glacier Cup
-Hill Climb Cup
-Uphill Cup
-
-**Four tracks**
-Dirty Rally
-Spring City
-Sunday Champ
+**Two tracks**  
+Glacier Cup  
+Hill Climb Cup  
+Uphill Cup  
+ 
+**Four tracks**  
+Dirty Rally  
+Spring City  
+Sunday Champ  
 
 #### Tracks by distance
 This may be helpful in identifying team (and public) event tracks
@@ -367,7 +369,9 @@ Meters\* | Tracks
 8. **Complete every monthly season and weekly public event (cheapest legendary parts)**
 9. **Only use gems at the shop to buy a part you don’t have**
 10. **Always buy the 50k coin scrap in the shop (if available)**
+
 ***  
+
 ### Team philosophy  
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
@@ -383,9 +387,9 @@ Meters\* | Tracks
 
 ***
 ### Tractor wars 
-If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with Numpty: https://playhcr.com/invite?id=95Pyg5
+If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with  Numpty: [https://playhcr.com/invite?id=95Pyg5](https://playhcr.com/invite?id=95Pyg5)
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
-Results are reported on the [tractor](https://rentry.co/hcr2vehicles#tractor)  wars discord server: https://discord.gg/ND6avWY
+Results are reported on the [tractor](http://tractor.hcr2.info) wars discord server: [https://discord.gg/ND6avWY](https://discord.gg/ND6avWY)
 ***
-Anything worth adding?  dadahcr2@gmail.com or dada#1710
+Anything worth adding?  dadahcr2@gmail.com or dada#1710 
