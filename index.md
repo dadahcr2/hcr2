@@ -188,7 +188,8 @@ Relegate |  |  | 400↓↓ | 800↓↓ | 1900↓↓ |  |  |
 ### Vehicles
 #### Parts required & costs
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)
-## ->HCR2 Parts Costs<-
+## HCR2 Parts Costs  
+{: style="text-align: center;"}
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
 #### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
@@ -457,4 +458,6 @@ We are an open team, so no password.  If there is an spot available and the belo
 
 ***
 dadahcr2@gmail.com / dada#1710 / [Leave a comment](https://rentry.co/hcom1)
+{: style="text-align: center;"}
 ## [![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/841864986590576660/2A8C00CC-70A7-4510-8847-09C3360CA512.png?width=120&height=120)]()
+{: style="text-align: center;"}
